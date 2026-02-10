@@ -1,0 +1,15 @@
+# Ignore Data
+data.folder/
+*.csv
+*.xlsx
+
+# Ignore Models (optional, if small you can keep, if >50MB ignore)
+*.pkl
+*.joblib
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints

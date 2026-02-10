@@ -1,0 +1,88 @@
+=== THE HARDEST CASES (14 Total) ===
+These are FRAUD samples that both Logistic Regression and SVM missed.
+Ordered by LR predicted probability (Lowest = Model was most confident it's Legit).
+
+
+==================================================
+[Index 256] LR Prob: 0.0836
+--------------------
+resource change management process excellence change enablement manager change management professional provide knowledge experience relate skill structure tool support mechanism need manage change foster environment conducive sustain changeadapt exist method procedure create possible alternative solution moderately complex problemsunderstand strategic direction set senior management relate team goalsuse considerable judgment determine solution seek guidance complex problemsprimary upward interaction direct supervisormay interact peer andor management level client andor accenturedetermines method procedure new assignment guidancedecision impact team residemanage small team andor work effort individual contributor role client accentureadditional responsibility follow change management offering areaschange strategy application change architecture model framework execute global multipolar multiworkforce crossgenerational multicultural complex change successfully assist client executive communicate framework cultural norm stakeholder engagement practicesorganization change enablement approach change management science instead art datadriven predictable methodology utilize method estimator framework integrate tightly broad project drive stakeholder engagement leadership alignment impact analysis learningtraine communication business readiness deployment adoption measurement help realign organization people action critical business imperative specific objectivesorganizational change capability support client achieve sustainable performance andor improvement organization assist client build strong change management capability workforce assist workforce transition internally manage operation outsourced operation identify opportunity provide create additional client value develop trust relationship key client internal customer ability meet travel requirement 100 basic qualification minimum 4 year consult experience relevant experience relate successful delivery change management work discipline change management methodology jobroleorganization design stakeholder identification engagement sponsorship alignment marketing communication trainingperformance support organizational readiness transition outsource bachelor degreepreferre skill background individual andor organizational psychology experience lead person experience work offshore thirdparty vendor experience global cross location multinational project experience delivery role complex integrated environment capable meeting senior executive director vice president skill hand experience implement portion largescale erp organizational change program relate enable system process change include limit change network strategy design implementation organizational impact identification mitigation plan organization alignment role mapping super power user strategy design implementation skill experience related talent amp organization performance area human capital amp organizational effectiveness learn amp collaboration human resource talent management experience process mapping training development webpage development application experience project management work planning status report issue risk management estimate strong proficiency microsoft office product eg word excel powerpointprofessional skill requirement prove success contribute teamoriented environment prove ability work creatively analytically problemsolving environment desire work information system environment excellent leadership communication write oral interpersonal skillsall consulting professional receive comprehensive training cover business acuman technical professional skill development ll opportunity hone functional skill expertise area specialization offer variety formal informal training program level help acquire build specialized skill fast learning take place job formal training conduct online classroom collaboration teammate sheer variety work experience offer provide unbeatable platform build career
+**************************************************
+
+==================================================
+[Index 200] LR Prob: 0.1002
+--------------------
+business development manager currently look clientfocused resultsdriven business development manager join teamworking market lead product back strong training development team role focus develop team suite product education sector high level understanding current social marketing trend important ensure stand peersthis challenging role suit wellconnected experienced sale professional prove track record instigate growth develop achieve targetsthis role involvesopene door niche marketsachieve sale targetspromote unique proposition consider attractive opportunity apply successful candidate willbe enthusiastic energetic motivated selfstarterbe experience solution sellingbe able generate new sale leadshave excellent communication interpersonal presentation skillsbe experience work team
+**************************************************
+
+==================================================
+[Index 678] LR Prob: 0.1282
+--------------------
+brand partner look motivated hardworke individualsmust 18learn entrepreneurial reallife business skill practicework face face marketing successful socialvemma health nutritional company worth 120 million riseif look great opportunity consume healthy product pay promote friend family market contact zack space limited
+**************************************************
+
+==================================================
+[Index 2410] LR Prob: 0.1404
+--------------------
+vemma brand partner look motivated hard working individualsmust 18learn entrepreneurial reallife business skill practicestudy success follow successful peoplevemma health nutrition company riseif look great opportunity consume healthy product pay promote friend family market contact joey space limited motivated willing work team
+**************************************************
+
+==================================================
+[Index 2026] LR Prob: 0.1907
+--------------------
+ux desgin good ux job world axureillustrator 10000
+**************************************************
+
+==================================================
+[Index 2562] LR Prob: 0.2112
+--------------------
+software design engineer software design engineerqualified candidate encourage apply directly job post direct email phone call consider thank cooperation recruitersjob descriptiontv2 consulting system integrator world 1 tv ip video platform mediaroom tv2 develop software product empower mediaroom operator deliver good customer experiencetv2 look software design engineer join team team laser focus delight customer solution solve customer pain point agile development process design customer feedback incorporate quickly engineer give broad responsibility span software lifecycle product requirement technical implementation customer integrationour primary platform windows stack web service sql server serverbase application need architecte robustness scale large datum set skill necessary 5 year architecte design implement c 5 year develop web user interface html ajax css json javascipt jquery 5 year design database schemas tsql programming demonstrate experience develop largevolume hightraffic highly scalable server base system plus entrepreneurial background consult plus tv2 consulting found 2007 microsoft alum jason chan work developer product mission enable operator quickly ramp operate iptv provide endtoend service solution architectureintegration deployment ongoing lab support diverse worldclass industry certify engineering team stateoftheart software satisfied client include tier 1 tier 2 tier 3 operator united states canada europe latin americaqualified candidate encourage apply directly job post direct email phone call consider thank cooperation recruiter
+**************************************************
+
+==================================================
+[Index 1554] LR Prob: 0.2171
+--------------------
+test automation engineer position test automation engineerlocation groveport ohduration 6 month contract hire skill javahtmlcucumberrubyseleniumelectric commanderjenkin responsibility write test scenario test framework cucumber language java rubyproduce wellwritten efficient highquality selfdocumente test code follow good practice design patternsdesign implement launch highlyvisible feature retail platform testbehavior drive development practicesuse critical thinking skill exploratory testingcontinuously grow skill value pair programming code reviewspractice relentless automation continuous integration continuous delivery continuous improvementrecommend adopt new technology keep exist technology leading edge versionsinterface project team develop test strategy featurereport quality project department leadershipbe ambassador open source community share passion test innovation learn testing community requirementsexperience webservice technologiesexperience presentation layer technology include javascript html cssexperience cucumber ruby selenium mocking service virtualization equivalentexperience headless testingable balance need speed execution coverage requirementsexperience relational database programming3 year develop automate tests5 year overall experience preferred skillsexperience programming java j2eeexperience continuous integration tool electric commander jenkinsproficiency virtualization technology vmware
+**************************************************
+
+==================================================
+[Index 655] LR Prob: 0.2923
+--------------------
+data center migration app lead fulltime opportunity datum center migration application lead architect prior large datum center application migration experience1015 year experience 10year experience infrastructure datum center application migrationknowledgeable tool require eg platespin bmc addm etc support datum gathering migration migration lead engineer experience proficient produce complex migration strategy support artifact include requirement discovery analysis formulation solution context identification solution alternative assessment technology selection final execution plan
+**************************************************
+
+==================================================
+[Index 1784] LR Prob: 0.3374
+--------------------
+vessel coordinator list infoorganize expro international shipping vessel operation export facility gulf effective decision operate vessel port coordinate daily activity nova boarding agent ensure vessel operate effective timely costefficient mannerresponsibilitie organize vessel operation vessel owner operator terminal provide proactive timely communication vessel owner operator terminal caterer ship crew government entity effective decision good manage vessel port reduce risk cost time port ensure federal state local government regulation requirement meet coordinate vessel attendance nova boarding agent ensure efficient vessel operation ensure arrangement vessel operation organize proactively timely include pilot tug launch hold cleaning service cash master ensure vessel documentation meet government requirement cargill accounting standard maintain strong working relationship provide good class service cargill ot vessel operatorsdesk head outside vessel ownersoperator maintain relationship terminal personnel trade execution staff ensure open line communication develop maintain vendor relationship obtain vessel service preferential pricing service level generate port cost estimate ensure adequate funding cover vessel expense port assist cargill accounting personnel collection fund provide accurate service vessel owner operator need board vessel attend vessel inspection usda ncb uscg attend berthing sailing export terminal learn basic gampmamp8217s stevedoring operation include stowplan load rotation spout operation documentation provide support necessary requiredfouryear college degree andor minimum 5 year experience maritime industryminimum 5 year experience maritime industrytechnical skillsdemonstrate proficiency ms office application word excel outlookmust willing relocate work location extended timemust willing able work varied hour weekend holidaysmust willing able climb ladder vessel gangwaysmust able operate motor vehicle maintain operational driver licensepreferredbachelor degree maritime academyexperience work varied hour weekend holidaysexperience work maritime environment technical skillsdemonstrate communication skill write verbal ability work team environmentdemonstrate problem solve decision make skillsdemonstrate ability manage time multiple priority appropriately
+**************************************************
+
+==================================================
+[Index 2196] LR Prob: 0.3866
+--------------------
+csr hire csr advertising representative work homemust havecustomer service representativecomputerinternetphonefor information 985 2500381interview immediately
+**************************************************
+
+==================================================
+[Index 74] LR Prob: 0.4030
+--------------------
+assistant accountant look assistant accountant join professional highly regard company suitable candidate receive high quality training experience gain great opportunity add accounting skill practice ask high level dedication loyalty strong work ethic staff return offer long term employment total support onthejob training mentoring program encourage study support achieve cacpa qualificationkey responsibility includecreate spreadsheet budget cash flow analysis amp management reportsassiste initial tax researchprepare australian taxation office form client inputte data eg myob tax handiledgerassiste client utilise firm tool business improvement management account ideal candidate follow skill attribute excellent knowledge bookkeeping compliance confident work independently team work accuracy eye detail focus require meet deadline good time management skill strong communication skill solid command english write verbal successful candidate highly selfmotivated able work pressure meet deadline focus accuracy attention detail need possess exemplary analytical capability underpin welldevelope interpersonal skill enable relate easily wide range stakeholderswe wait resume
+**************************************************
+
+==================================================
+[Index 581] LR Prob: 0.4358
+--------------------
+casual jobimmediate start look workwe look self motivate energetic person join teamthe role base sydney weekly earning 400 450 experience necessary training provide great team culture immediate start 18 applypart time position available monfri expect excellent communication skill hunger success applicant permanent australian resident ideally seek permanent opportunity look forward cv email email_0226e2f4fe7582986cb4d8285983a03f8444fb44d8a778c791fecb37fc1b810c experience necessary training provide great team culture immediate start
+**************************************************
+
+==================================================
+[Index 1440] LR Prob: 0.4594
+--------------------
+senior engineer apply link puget soundenergy pse long tradition service anexciting innovative future aheadconsider pse step yourcareersenior engineer 65778puget sound energys system planning department look asenior engineer depend qualification join ourteam senior engineer prepare engineering plan designsspecification standard cost estimate system study andother evaluation person provide professionalengineere service support planning constructionoperation maintenance analysis pse transmission facilitiesand asset include knowledge analysis theinterconnecte transmission system applicable nerccompliance standard govern transmission planning role interpret apply exist guidelinesand engineering principle practice theory thecompletion assignment involve substantial degree ofcomplexity interrelated element requiringconsideration previously encounter engineer workson project team support successful completion projectsdesigne reinforce energy delivery power generationsystem work assignment perform goal ofgrowe engineer technical managerial knowledge pseprocesse system ideal candidate support emergencyresponse operation neededthis excellent opportunity play integral role withinpse help well serve environment customer thecommunitie live pse provide environment whereall employee value respected provide theopportunity achieve maximum performance offer acomprehensive pay package include competitive compensationannual goalsbase incentive bonus comprehensive cafeteriastylebenefit 401k company pay retirement pension plan anemployee assistance wellness program gain energy dogreat thing career puget sound energyprimary responsibility
+**************************************************
+
+==================================================
+[Index 462] LR Prob: 0.5022
+--------------------
+parttime work place parttime work placeflexible schedule 65 hr guarantee payno experience require amp training givenplease send email touchemail_4058709695d9f606b739d441200a17b77f15be452426693842b5dc7785edc95e
+**************************************************
