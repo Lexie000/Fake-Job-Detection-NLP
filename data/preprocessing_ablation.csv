@@ -1,0 +1,3 @@
+Experiment,Preprocessing,Best_Threshold,PR_AUC,Precision,Recall,F1,Delta_vs_raw_F1
+Hybrid SVM + 2 credibility indicators,No lemmatization / stopword removal,0.6000000000000002,0.9532569877635345,1.0,0.6461538461538462,0.7850467289719626,0.0
+Hybrid SVM + 2 credibility indicators,With lemmatization + stopword removal,0.5500000000000002,0.9520186483921234,1.0,0.6846153846153846,0.8127853881278538,0.027738659155891243

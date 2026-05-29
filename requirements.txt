@@ -1,0 +1,12 @@
+# ── core app ──────────────────────────────────────────────────────────────────
+streamlit>=1.33
+joblib>=1.3
+pandas>=2.0
+scikit-learn>=1.4
+
+# ── NLP preprocessing ─────────────────────────────────────────────────────────
+spacy>=3.7
+# After pip install, also run:  python -m spacy download en_core_web_sm
+
+# ── Stage 2 LLM (Ollama local OR OpenAI API) ──────────────────────────────────
+openai>=1.30

@@ -1,15 +1,36 @@
-# Ignore Data
-data.folder/
-*.csv
-*.xlsx
+# ── large data files (too big for git) ───────────────────────────────────────
+data/fake_job_postings.csv
+data/fake_job_postings_processed.csv
+data/fake_job_postings_processed_1.csv
 
-# Ignore Models (optional, if small you can keep, if >50MB ignore)
-*.pkl
-*.joblib
+# ── prediction CSVs (reproducible from notebooks, no need to track) ──────────
+data/*_predictions.csv
+data/*_threshold_table.csv
+data/*_validation_search.csv
 
-# Ignore Mac system files
+# ── review log (local decisions, don't share) ─────────────────────────────────
+data/review_log.jsonl
+
+# ── Python cache ──────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# ── Jupyter ───────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+
+# ── env / secrets ─────────────────────────────────────────────────────────────
+.env
+*.env
+.env.local
+
+# ── OS ────────────────────────────────────────────────────────────────────────
 .DS_Store
+Thumbs.db
 
-# Ignore Jupyter checkpoints
-.ipynb_checkpoints
-*/.ipynb_checkpoints
+# ── virtual envs ─────────────────────────────────────────────────────────────
+venv/
+.venv/
+env/
+.claude/
